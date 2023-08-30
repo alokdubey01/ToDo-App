@@ -16,7 +16,7 @@ function App() {
           <Sidebar />
         </div>
         <div className='w-full col-span-5 md:col-span-4 bg-[#eff1f7]'>
-          <div class="w-full grid grid-cols-3 mx-2 mt-2 px-4 font-sans">
+          <div className="w-full grid grid-cols-3 mx-2 mt-2 px-4 font-sans">
             {/* TODO */}
             <div className='col-span-1'>
               <TODO/>
